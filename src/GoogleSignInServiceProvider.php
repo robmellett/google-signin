@@ -16,10 +16,6 @@ class GoogleSignInServiceProvider extends PackageServiceProvider
          * More info: https://github.com/spatie/laravel-package-tools
          */
         $package
-            ->name('google-signin')
-            ->hasConfigFile()
-            ->hasViews()
-            ->hasMigration('create_google-signin_table')
-            ->hasCommand(GoogleSignInCommand::class);
+            ->name('google-signin');
     }
 }
