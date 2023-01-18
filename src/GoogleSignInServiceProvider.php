@@ -4,7 +4,6 @@ namespace AdoreBeauty\GoogleSignIn;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use AdoreBeauty\GoogleSignIn\Commands\GoogleSignInCommand;
 
 class GoogleSignInServiceProvider extends PackageServiceProvider
 {
