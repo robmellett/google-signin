@@ -2,9 +2,9 @@
 
 namespace AdoreBeauty\GoogleSignIn\Tests;
 
+use AdoreBeauty\GoogleSignIn\GoogleSignInServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use AdoreBeauty\GoogleSignIn\GoogleSignInServiceProvider;
 
 class TestCase extends Orchestra
 {

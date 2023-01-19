@@ -3,12 +3,13 @@
 namespace AdoreBeauty\GoogleSignIn;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
+
 class GoogleSignInSocialite
 {
     /**
      * Register the provider.
      *
-     * @param SocialiteWasCalled $socialiteWasCalled
+     * @param  SocialiteWasCalled  $socialiteWasCalled
      */
     public function handle(SocialiteWasCalled $socialiteWasCalled)
     {
