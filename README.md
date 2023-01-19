@@ -3,7 +3,8 @@
 ## Google OpenID Documentation
 
 - [https://developers.google.com/identity/openid-connect/openid-connect](https://developers.google.com/identity/openid-connect/openid-connect)
-- [Sign In With Google](https://www.oauth.com/oauth2-servers/signing-in-with-google/verifying-the-user-info/)
+- [https://www.oauth.com/oauth2-servers/signing-in-with-google/verifying-the-user-info/](https://www.oauth.com/oauth2-servers/signing-in-with-google/verifying-the-user-info/)
+- [https://security.stackexchange.com/questions/37818/why-use-openid-connect-instead-of-plain-oauth2](https://security.stackexchange.com/questions/37818/why-use-openid-connect-instead-of-plain-oauth2)
 
 ## Testing
 
