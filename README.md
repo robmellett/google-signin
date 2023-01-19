@@ -1,9 +1,9 @@
 # Google Sign In via JWT
 
-## Google Auth Documentation
+## Google OpenID Documentation
 
 - [https://developers.google.com/identity/openid-connect/openid-connect](https://developers.google.com/identity/openid-connect/openid-connect)
-
+- [Sign In With Google](https://www.oauth.com/oauth2-servers/signing-in-with-google/verifying-the-user-info/)
 
 ## Testing
 
