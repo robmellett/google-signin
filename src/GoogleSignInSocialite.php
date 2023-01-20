@@ -14,7 +14,7 @@ class GoogleSignInSocialite
     public function handle(SocialiteWasCalled $socialiteWasCalled)
     {
         $socialiteWasCalled->extendSocialite(
-            'google',
+            Provider::IDENTIFIER,
             __NAMESPACE__.'\Provider'
         );
     }
