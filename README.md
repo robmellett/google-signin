@@ -6,6 +6,7 @@
 - [https://www.oauth.com/oauth2-servers/signing-in-with-google/verifying-the-user-info/](https://www.oauth.com/oauth2-servers/signing-in-with-google/verifying-the-user-info/)
 - [https://security.stackexchange.com/questions/37818/why-use-openid-connect-instead-of-plain-oauth2](https://security.stackexchange.com/questions/37818/why-use-openid-connect-instead-of-plain-oauth2)
 - [https://developers.google.com/identity/gsi/web/guides/verify-google-id-token](https://developers.google.com/identity/gsi/web/guides/verify-google-id-token)
+- [https://github.com/MomenSherif/react-oauth/issues/12](https://github.com/MomenSherif/react-oauth/issues/12)
 
 ## Testing
 
