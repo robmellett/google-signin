@@ -1,4 +1,4 @@
-# Google Sign In via JWT
+# Google Sign In via JWT (Legacy)
 
 ## Google OpenID Documentation
 

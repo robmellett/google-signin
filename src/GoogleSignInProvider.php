@@ -6,7 +6,7 @@ use Illuminate\Support\Arr;
 use SocialiteProviders\Manager\OAuth2\AbstractProvider;
 use SocialiteProviders\Manager\OAuth2\User;
 
-class Provider extends AbstractProvider
+class GoogleSignInProvider extends AbstractProvider
 {
     /**
      * Unique Provider Identifier.

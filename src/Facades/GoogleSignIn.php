@@ -11,6 +11,6 @@ class GoogleSignIn extends Facade
 {
     protected static function getFacadeAccessor()
     {
-        return \AdoreBeauty\GoogleSignIn\Provider::class;
+        return \AdoreBeauty\GoogleSignIn\GoogleSignInProvider::class;
     }
 }
