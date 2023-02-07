@@ -11,7 +11,7 @@ class GoogleSignInProvider extends AbstractProvider
     /**
      * Unique Provider Identifier.
      */
-    const IDENTIFIER = 'GOOGLE-SIGNIN';
+    const IDENTIFIER = 'GOOGLE';
 
     /**
      * {@inheritdoc}

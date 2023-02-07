@@ -1,6 +1,6 @@
 {
     "name": "adorebeauty/google-signin",
-    "description": "This is my package google-signin",
+    "description": "A Laravel Socialite Google SignIn Provider (JWT)",
     "keywords": [
         "AdoreBeauty",
         "laravel",
