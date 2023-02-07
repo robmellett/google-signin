@@ -13,10 +13,8 @@ class GoogleSignInSocialite
      */
     public function handle(SocialiteWasCalled $socialiteWasCalled)
     {
-        $providerName = str(GoogleSignInProvider::IDENTIFIER)->lower();
-
         $socialiteWasCalled->extendSocialite(
-            $providerName,
+            'google'
             GoogleSignInProvider::class
         );
     }
