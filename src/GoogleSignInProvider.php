@@ -77,7 +77,7 @@ class GoogleSignInProvider extends AbstractProvider
             'first_name' => trim($user['given_name']),
             'last_name' => trim($user['family_name'] ?? ''),
             'email' => $user['email'],
-            'avatar' => $user['picture'],
+            'avatar' => $user['picture'] ?? null,
         ]);
     }
 
